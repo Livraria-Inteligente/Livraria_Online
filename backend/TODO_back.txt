@@ -1,0 +1,6 @@
+Separar as classes em arquivos;
+
+criar logica de login;
+
+loc pesquisar sobre flask;
+
