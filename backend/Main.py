@@ -25,8 +25,6 @@ class biblioteca:
         self.devolver = devolver
         
         
-    def pegar_livros(self, livro):
-        self.livros_emprestados.append(livro)
          
         
         
